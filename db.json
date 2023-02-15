@@ -1,0 +1,254 @@
+{
+  "Topic": [
+    "Danh sách kết hợp",
+    "Âm nhạc",
+    "Trò chơi",
+    "trực tiếp",
+    "hoạt họa",
+    "bóng đá",
+    "đọc rap",
+    "ăn",
+    "trò chơi hành động phiêu lưu",
+    "mới tải lên gần đây",
+    "đã xem",
+    "mới tải lên gần đây",
+    "đề xuất mới"
+  ],
+  "Refcontent": [
+    {
+      "header": "",
+      "arr": [
+        {
+          "name": "Trang chủ",
+          "type": "home"
+        },
+        {
+          "name": "Short",
+          "type": "token"
+        },
+        {
+          "name": "Kênh đăng kí",
+          "type": "token"
+        }
+      ]
+    },
+    {
+      "header": "",
+      "arr": [
+        {
+          "name": "Thư viện",
+          "type": "token"
+        },
+        {
+          "name": "Video đã xem",
+          "type": "token"
+        },
+        {
+          "name": "Video của bạn",
+          "type": "token"
+        },
+        {
+          "name": "Xem sau",
+          "type": "token"
+        },
+        {
+          "name": "Video đã thích",
+          "type": "token"
+        },
+        {
+          "name": "Thêm",
+          "type": "expand_more"
+        }
+      ]
+    },
+    {
+      "header": "Kênh đăng kí",
+      "arr": [
+        {
+          "name": "Nhân tố Y",
+          "path": "https://yt3.ggpht.com/ytc/AMLnZu9KSLJduZQfVhRt5rrl_ltG5mw4he_6lkrYmg=s88-c-k-c0x00ffffff-no-rj-mo"
+        },
+        {
+          "name": "Nhân tố Y",
+          "path": "https://yt3.ggpht.com/ytc/AMLnZu9KSLJduZQfVhRt5rrl_ltG5mw4he_6lkrYmg=s88-c-k-c0x00ffffff-no-rj-mo"
+        },
+        {
+          "name": "Nhân tố Y",
+          "path": "https://yt3.ggpht.com/ytc/AMLnZu9KSLJduZQfVhRt5rrl_ltG5mw4he_6lkrYmg=s88-c-k-c0x00ffffff-no-rj-mo"
+        },
+        {
+          "name": "Nhân tố Y",
+          "path": "https://yt3.ggpht.com/ytc/AMLnZu9KSLJduZQfVhRt5rrl_ltG5mw4he_6lkrYmg=s88-c-k-c0x00ffffff-no-rj-mo"
+        }
+      ]
+    },
+    {
+      "header": "Khám phá",
+      "arr": [
+        {
+          "name": "Thịnh hành",
+          "type": "token"
+        },
+        {
+          "name": "Âm nhạc",
+          "type": "token"
+        },
+        {
+          "name": "Trò chơi",
+          "type": "token"
+        },
+        {
+          "name": "Tin tức",
+          "type": "token"
+        },
+        {
+          "name": "Thể thao",
+          "type": "token"
+        }
+      ]
+    },
+    {
+      "header": "Dịch vụ khác của YouTube",
+      "arr": [
+        {
+          "name": "Cài đặt",
+          "type": "token"
+        },
+        {
+          "name": "Nhật kí báo cáo",
+          "type": "token"
+        },
+        {
+          "name": "Trợ giúp",
+          "type": "token"
+        },
+        {
+          "name": "Gửi ý kiến phản hồi",
+          "type": "token"
+        }
+      ]
+    },
+    {
+      "header": "",
+      "arr": [
+        {
+          "name": "Cài đặt",
+          "type": "token"
+        },
+        {
+          "name": "Nhật kí báo cáo",
+          "type": "token"
+        },
+        {
+          "name": "Trợ giúp",
+          "type": "token"
+        },
+        {
+          "name": "Gửi ý kiến phản hồi",
+          "type": "token"
+        }
+      ]
+    }
+  ],
+  "Video": [
+    {
+      "title": "Review Tro Tàn Rực Rỡ | Cuối Cùng Thì Phim Việt Cũng Hay",
+      "channel": {
+        "name": "W2W Movie",
+        "avatar": "https://i.ytimg.com/vi/sYbhgzKSVhA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqpz_5UUukEuavE9JforC4AwNgIg",
+        "thumbnail_img": "https://yt3.ggpht.com/G5AYnCYm40VpnXeTFHafqJcThLgwWjoM98I7IFBkoJaFm3ObhvLCilemOquYh7nDtmB9p3TLayQ=s68-c-k-c0x00ffffff-no-rj",
+        "icon": "check_circle"
+      },
+      "time": "2012-04-23T18:25:00Z",
+      "views": "1000900000"
+    },
+    {
+      "title": "Tommy Tèo - Nhắc tới freestyle không ai không biết tới Quang Tèo [Lyric Video]",
+      "channel": {
+        "name": "Nups GVN",
+        "avatar": "https://i.ytimg.com/vi/p_TC3YzwS_U/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE0oWDAP&rs=AOn4CLD2mu9Sh8BUi5yFJCKBphNQs_VGiQ",
+        "thumbnail_img": "https://yt3.ggpht.com/ytc/AL5GRJX7brjThIanMHheSfV82BnlIqtN4QYzkzkli62YYg=s68-c-k-c0x00ffffff-no-rj",
+        "icon": "music_note"
+      },
+      "time": "2020-04-23T18:25:00Z",
+      "views": "132000000"
+    },
+    {
+      "title": "Đen - Luôn yêu đời ft. Cheng (M/V)",
+      "channel": {
+        "name": "Đen Vâu Official",
+        "avatar": "https://i.ytimg.com/vi/CnZxamAbSnw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3Cn-rtLlHtk8yfP8c9kRqBSWmDQ",
+        "thumbnail_img": "https://yt3.ggpht.com/JctB7Kip2UbYDoF4xo33fniVvJDhFS3tyzwSaDHNXbfwDJkvU4m4GAgF35-4_LUrtz3DHbJ-=s88-c-k-c0x00ffffff-no-rj",
+        "icon": "check_circle"
+      },
+      "time": "2023-01-23T18:25:00Z",
+      "views": "199000900000"
+    },
+    {
+      "title": "Thám Tử Lừng Danh Conan - Mật Mã Bất Ngờ Của Cổng Vào Ngôi Đền Shitou -Tổng Hợp Những Vụ Án Hay Nhất của POPS Anime 1 năm trước 44 phút 1.233.664 lượt xem",
+      "channel": {
+        "name": "POPS Anime",
+        "avatar": "https://i.ytimg.com/vi/KPZbXoN_mjQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClD5s9G4cd9TjwbquVbcmQ4eKOFA",
+        "thumbnail_img": "https://yt3.ggpht.com/ytc/AL5GRJVV3eHmAs6VAMaBLu1aN10_wzFz-z0i9PYihXlMgA=s68-c-k-c0x00ffffff-no-rj",
+        "icon": "check_circle"
+      },
+      "time": "2018-05-23T18:25:00Z",
+      "views": "259780"
+    },
+    {
+      "title": "Car Music Mix 2022 🔥 Best Remixes of Popular Songs 2022 & EDM, Bass Boosted",
+      "channel": {
+        "name": "Bass Music Movement",
+        "avatar": "https://i.ytimg.com/vi/IlLmI5j7el0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD24NIq-04PTnR-5DzsqvOUmXmXBQ",
+        "thumbnail_img": "https://yt3.ggpht.com/kov5hUSxmfnMKnjdYqcIXS0k291xp15aGeuCb-DBeX5H0UNpcF9Wf_pEAlIkH9oKrDP2cjMhJA=s68-c-k-c0x00ffffff-no-rj",
+        "icon": "check_circle"
+      },
+      "time": "2021-04-23T18:25:00Z",
+      "views": "878564765"
+    },
+    {
+      "title": "Datmaniac - Thiên Hà Trước Hiên Nhà (Prod. by Mikeezy) ft. Chú 3 (Official MV)",
+      "channel": {
+        "name": "CROW ON HYENAS",
+        "avatar": "https://i.ytimg.com/vi/jn8NhISy9rg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2v0-piHTJ4QYQUSLr7FpSzcgDnA",
+        "thumbnail_img": "https://yt3.ggpht.com/5UxNFxIC-TVwDcT3oa9S4xknuld_BTw8La7f8mJ_rGwOe6uTAOEwZsess0CVxMdifvNbJwDd=s68-c-k-c0x00ffffff-no-rj",
+        "icon": "music_note"
+      },
+      "time": "2017-04-23T18:25:00Z",
+      "views": "345121122"
+    },
+    {
+      "title": "2 0 2 2 - W/n ft tie (demo)",
+      "channel": {
+        "name": "W/n",
+        "avatar": "https://i.ytimg.com/vi/DeP1MhCP7wM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhcIFwoXDAP&rs=AOn4CLA8X7qc5l0x7nSLPJkRSqKVd55TlQ",
+        "thumbnail_img": "https://yt3.ggpht.com/ytc/AL5GRJXXXwuWZbPjS1iDYzNdSCbdJh-T9zLa_5GcRNV69A=s88-c-k-c0x00ffffff-no-rj",
+        "icon": "music_note"
+      },
+      "time": "2020-05-23T18:25:00Z",
+      "views": "10123123"
+    },
+    {
+      "title": "hieuthuhai - ngủ một mình (tình rất tình) ft. negav (prod. by kewtiie)",
+      "channel": {
+        "name": "HIEUTHUHAI",
+        "avatar": "https://i.ytimg.com/vi/1OJQdxT6WHE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm6lxLsaTFg09dsk2YdjZPEWlhsw",
+        "thumbnail_img": "https://yt3.ggpht.com/j3oOk3XnBJv9zQFrVIeeqIagDlh48B81b_N3a1vzI5JJNZrWz6zLgsHomRcbAcdHkN5_sl3nUNM=s88-c-k-c0x00ffffff-no-rj",
+        "icon": "music_note"
+      },
+      "time": "2022-04-23T18:25:00Z",
+      "views": "153000000"
+    },
+    {
+      "title": "BƯỚC QUA MÙA CÔ ĐƠN / Vũ. (Official MV)",
+      "channel": {
+        "name": "Vũ Official",
+        "avatar": "https://i.ytimg.com/vi/n6Pnzi6r9NU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNX9JaeLHOGU7SAT-T_DYlOhPmPg",
+        "thumbnail_img": "https://yt3.ggpht.com/Ys7qlhPnVINsnAK_-D79-ljufzVhDWwtNvzdC7XpIYl4IBJoRgkTiVg1WFsuFJ2fqJQcObTCFw=s88-c-k-c0x00ffffff-no-rj",
+        "icon": "music_note"
+      },
+      "time": "2023-02-11T18:25:00Z",
+      "views": "3450000"
+    }
+  ]
+}

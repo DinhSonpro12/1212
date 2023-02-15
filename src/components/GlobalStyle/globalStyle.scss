@@ -1,0 +1,236 @@
+@import 'normalize.css';
+// @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+
+// thêm những reset css của bản thân
+
+html {
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  outline: none;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  font-family: 'Roboto', 'Arial', sans-serif;
+}
+.icon {
+  display: block;
+  box-sizing: border-box;
+  line-height: 24px;
+  color: #fff;
+  font-variation-settings: 'FILL' 0, 'wght' 200, 'GRAD' 0, 'opsz' 24;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+.hidden {
+  display: none !important;
+}
+
+.bound {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.bound_btn {
+  display: flex;
+  flex-direction: row;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  background-color: #0f0f0f;
+  justify-content: center;
+  align-items: center;
+}
+
+.bound_btn:hover {
+  background-color: #ffffff1a;
+  cursor: pointer;
+}
+
+.root {
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+}
+
+/* margin */
+
+.marginRight-8 {
+  margin-right: 8px;
+}
+
+.marginRight-16 {
+  margin-right: 16px;
+}
+
+.marginLeft-4 {
+  margin-left: 4px;
+}
+
+.marginLeft-40 {
+  margin-left: 40px;
+}
+
+.marginTop-16 {
+  margin-top: 16px;
+}
+
+.margin-08 {
+  margin: 0 8px !important;
+}
+
+/* padding */
+.padding-02 {
+  padding: 0 2px;
+}
+
+.padding-04 {
+  padding: 0 4px;
+}
+
+.padding-08 {
+  padding: 0 8px;
+}
+
+.paddingRight-10 {
+  padding: 0 10px 0 0;
+}
+
+.paddingLeft-16 {
+  padding: 0 0 0 16px;
+}
+
+.padding-12 {
+  padding: 12px;
+}
+
+/* font-size icon */
+.sizeicon-40 {
+  font-size: 40px !important;
+}
+
+/* position */
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.visible {
+  overflow: visible;
+}
+
+/* background-color và color */
+.bgcolor3e3e3e {
+  background-color: #3e3e3e;
+}
+
+.bgcolor282828 {
+  background-color: #282828;
+}
+
+.bgcolor212121 {
+  background-color: #212121;
+}
+
+.color181818 {
+  background-color: #181818;
+}
+
+/* bảng thông báo */
+
+.notif_bound {
+  /* overflow: scroll; */
+}
+
+.boundColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.bound40 {
+  display: block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+
+/* btn find voice */
+
+/*end btn find voice */
+
+/* user */
+
+/*end user */
+
+/* <!-- của menu --> */
+
+/* tạo scrollbar của youtube */
+
+::-webkit-scrollbar {
+  background: transparent;
+  width: 7px;
+}
+
+/* webkit scrollbar thumb is the part of the scrollbar which we hold to scroll  */
+::-webkit-scrollbar-thumb {
+  background: #606060;
+  /* we got the background now lets make it round */
+  border-radius: 100px;
+}
+
+/* footer */
+.footer .content_bound_menu {
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 16px 24px 0;
+  border: none;
+}
+
+.content_bound_menu > a {
+  display: inline-block;
+  width: fit-content;
+  font-size: 13px;
+  color: #aaaaaa;
+  margin-right: 8px;
+  line-height: 18px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+#copyright.content_bound_menu {
+  padding: 16px 24px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  color: #717171;
+}
+
+/* end footer */
+
+/* end refbar  */
+.boundcolor {
+  background-color: #0f0f0f;
+}
+
+.fixed {
+  position: fixed;
+}

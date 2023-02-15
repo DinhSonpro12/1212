@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+
+.topbar_create_active {
+  font-variation-settings: 'FILL' 1, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+}
+
+.topbar_voice_active {
+  font-variation-settings: 'FILL' 1, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+}
+
+// icon user
+.bound_topbar_user {
+  width: 60px;
+  padding: 0 6px;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  .topbar_user {
+    background: url(https://yt3.ggpht.com/ytc/AMLnZu9KSLJduZQfVhRt5rrl_ltG5mw4he_6lkrYmg=s88-c-k-c0x00ffffff-no-rj-mo)
+      no-repeat top center / cover;
+    width: 32px;
+    height: 32px;
+  }
+}
+
+#icon_noti {
+  position: absolute;
+  top: -4px;
+  left: 12px;
+  width: 20px;
+  height: 20px;
+  padding: 0 4px;
+  background-color: red;
+  color: #fff;
+  font-size: 12px;
+
+  &:hover {
+    background-color: red;
+  }
+}
+
+/* popup title */
+.popupTitle {
+  position: absolute;
+  width: auto;
+  height: auto;
+  padding: 8px;
+  margin: 8px;
+  background-color: #616161;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.5px;
+  font-family: 'Roboto', 'Arial', sans-serif;
+  border-radius: 4px;
+  top: 37px;
+  //   left: 0px;
+  transform: translateX(calc((24px - 100% - 16px) / 2));
+}
+
+.refbar-icon {
+  margin-bottom: 6px;
+  font-variation-settings: 'FILL' 0, 'wght' 100, 'GRAD' 0, 'opsz' 24;
+}
+
+.thumbnail_avatar {
+  display: block;
+  width: 24px;
+  border-radius: 50%;
+  background: no-repeat top center / cover;
+  margin-right: 16px;
+}

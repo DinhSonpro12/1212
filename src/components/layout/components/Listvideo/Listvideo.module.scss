@@ -1,0 +1,21 @@
+/* <!-- listvideo --> */
+.listvideo {
+  position: fixed;
+  top: 112px;
+  left: 72px;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  background-color: #0f0f0f;
+  overflow-y: scroll;
+
+  &_row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 5px;
+  }
+}

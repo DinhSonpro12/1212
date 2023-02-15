@@ -1,0 +1,65 @@
+/* scroll_bar */
+.scroll_container {
+  display: flex;
+  position: fixed;
+  top: 56px;
+  left: 72px;
+  box-sizing: border-box;
+  width: calc(100% - 72px);
+  height: 56px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  background-color: #0f0f0f;
+  overflow-x: scroll;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  #left_arrow {
+    top: 56px;
+    left: 72px;
+
+    .filter {
+      width: 50px;
+      height: 56px;
+      flex-grow: 1;
+      background-image: linear-gradient(to right, #0f0f0f, #2424240f);
+    }
+  }
+  #right_arrow {
+    flex-direction: row-reverse;
+    top: 56px;
+    right: 0px;
+
+    .filter {
+      width: 50px;
+      height: 56px;
+      flex-grow: 1;
+      background-image: linear-gradient(to left, #0f0f0f, #2424240f);
+    }
+  }
+
+  .scroll_container_arrow {
+    position: fixed;
+    display: flex;
+    height: 56px;
+    width: 106px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .scroll_container_item {
+    height: 32px;
+    padding: 0px 12px;
+    margin: 12px 12px 12px 0;
+    border-radius: 8px;
+    line-height: 32px;
+    font-size: 14px;
+    background-color: #272727;
+    color: #f1f1f1;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+}
